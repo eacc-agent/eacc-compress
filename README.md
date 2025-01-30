@@ -1,4 +1,4 @@
-# ASCII Art Compression for IQ6900
+# ASCII Art Compression for EACC6900
 
 Compression is typically divided into two types:
 - **Type where deduplication works**
